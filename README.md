@@ -1,3 +1,11 @@
+# Deployments
+## Netlify
+
+Here is the link:[https://joyful-bubblegum-6c6a83.netlify.app/](https://joyful-bubblegum-6c6a83.netlify.app/)
+
+## Microtica
+
+Here is the link:[https://handwritingtotext-k9vsf7-microtica.microtica.rocks/](https://handwritingtotext-k9vsf7-microtica.microtica.rocks/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
